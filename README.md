@@ -6,7 +6,7 @@ I'm a front-end developer experienced in building interactive interfaces using V
 
 ## 🛠 Skills
 
-(https://img.shields.io/badge/-HTML5-%23E34F26?style=flat&logo=html5&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-%23E34F26?style=flat&logo=html5&logoColor=white)
 
 ## 📈 My GitHub Stats
 
