@@ -6,9 +6,7 @@ I'm a front-end developer experienced in building interactive interfaces using V
 
 ## 🛠 Skills
 
-- **Web Technologies:** HTML5, CSS3, JavaScript (ES6+)
-- **Frameworks:** Vue.js, Nuxt.js
-- **Tools:** Git, Webpack, Docker
+(https://img.shields.io/badge/-HTML5-%23E34F26?style=flat&logo=html5&logoColor=white)
 
 ## 📈 My GitHub Stats
 
