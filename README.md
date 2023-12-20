@@ -39,7 +39,7 @@ I'm a front-end developer experienced in building interactive interfaces using V
 
 ## 📫 Connect with Me
 
-- Email: [Your Email](mailto:akbotamold@gmail.com)
+- Email: [My Gmail](mailto:akbotamold@gmail.com)
 - Telegram: https://t.me/slecnaa
 ---
 
